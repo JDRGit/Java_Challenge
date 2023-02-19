@@ -23,3 +23,4 @@ public class FillInTheBlanks {
         System.out.println("It was a " + adjective + " " + season + " day. I woke up to the sound of " + number + " birds singing outside my window.");
     }
 }
+
